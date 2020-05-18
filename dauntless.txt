@@ -1,0 +1,18 @@
+Name: Matanmi Oluwaseun
+
+Programming languages used: Python, JavaScript
+
+Projects Done:
+
+- WebToDoApp: This is a web app that persons todo, it has the features of performing crud operations, user being able to login, logout, register, and also user can mark as complete. 
+Technologies used: Python, Django, Html, css and bootstrap
+
+- VBank: This is a virtual banking web system which has features like:
+a. Registering
+b. Profile Update
+c. Sending of Money
+d. Withdrawing
+e. Making Deposits
+f. Each user has a uniques 10digits account number
+and so on.
+Technologies used: Python, Django, Html, css, bootstrap, JQuery
